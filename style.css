@@ -15,9 +15,11 @@ padding:0px;
   box-shadow: 10px 10px grey;
   font-family: 'Oxygen', sans-serif;
 }
-.button{
+button{
 background-color: rgb(57,120,208);
 border-radius:5px;
 padding:10px;
-font-family: ''
+font-family: 'Nunito Sans', sans-serif;
+font-size:15px;
+color:white;
 }
