@@ -22,4 +22,13 @@ padding:20px;
 font-family: 'Nunito Sans', sans-serif;
 font-size:30px;
 color:white;
+transition:1s;
+}
+button:hover{
+background-color: rgb(57,120,208);
+border-radius:5px;
+padding:20px;
+font-family: 'Nunito Sans', sans-serif;
+font-size:30px;
+color:white;
 }
