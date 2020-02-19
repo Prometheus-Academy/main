@@ -1,6 +1,7 @@
 .header{
 background-image: linear-gradient(to bottom right, rgb(57,120,208), rgb(0,255,0));
 transition:0.2s;
+font-family: 'Alegreya Sans SC', sans-serif;
 }
 body{
 margin:0px;
