@@ -1,5 +1,5 @@
 .header{
-background-color: rgb(57,120,208);
+background-color: linear-gradient(to bottom right rgb(57,120,208), rgb(197,239,253));
 }
 body{
 margin:0px;
