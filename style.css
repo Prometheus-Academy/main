@@ -58,6 +58,9 @@ font-family: 'Nunito Sans', sans-serif;
 font-size:30px;
 color:white;
 }
+.biggertext{
+font-family: 'Oxygen', sans-serif;
+}
 .text{
 font-family: 'Nunito Sans', sans-serif;
 }
