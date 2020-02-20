@@ -67,10 +67,11 @@ font-family: 'Nunito Sans', sans-serif;
 }
 .explain{
 font-family: 'Nunito Sans', sans-serif;
-background-color: linear-gradient(to bottom right, rgb(57,120,208), rgb(0,255,0));
+background-image: linear-gradient(to bottom right, rgb(57,120,208), rgb(0,255,0));
 font-size:20px;
 color:white;
 border-radius:12px;
-width:75%
-200px;
+width:75%;
+height:200px;
+padding:20px;
 }
