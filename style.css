@@ -28,7 +28,7 @@ padding:0px;
   display:inline-block;
   box-shadow: 10px 10px grey;
   font-family: 'Oxygen', sans-serif;
-  transition:0.2s;
+  transition:1s;
 }
 .choosinglesson:hover{
   border-radius:10px;
@@ -39,7 +39,7 @@ padding:0px;
   display:inline-block;
   box-shadow: 15px 15px grey;
   font-family: 'Oxygen', sans-serif;
-  transition:0.2s;
+  transition:1s;
 }
 button{
 background-color: rgb(50,255,150);
