@@ -57,6 +57,7 @@ padding:20px;
 font-family: 'Nunito Sans', sans-serif;
 font-size:30px;
 color:white;
+box-shadow: 10px 10px orange;
 }
 .biggertext{
 font-family: 'Oxygen', sans-serif;
